@@ -1,0 +1,50 @@
+Enter word or sentence (EXIT to break): cat she like
+
+Word: cat  Position in vocabulary: 4488
+
+Word: she  Position in vocabulary: 66
+
+Word: like  Position in vocabulary: 96
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                              cute		0.646045
+                                          adorable		0.627930
+                                               kid		0.626023
+                                            feline		0.617898
+                                            cuddly		0.611099
+                                            kitten		0.604090
+                                               dog		0.602140
+                                             furry		0.594004
+                                            granny		0.589555
+                                                me		0.588652
+                                             weird		0.584237
+                                             puppy		0.583138
+                                               dad		0.578140
+                                           naughty		0.565979
+                                               mom		0.563166
+                                             crazy		0.561566
+                                             goofy		0.561245
+                                           raccoon		0.560521
+                                             perky		0.557424
+                                              hers		0.554244
+                                            rabbit		0.548666
+                                               mum		0.547028
+                                                 i		0.545496
+                                              doll		0.544244
+                                           someone		0.541352
+                                             pooch		0.540784
+                                       mischievous		0.540760
+                                                my		0.539067
+                                           herself		0.537137
+                                          motherly		0.536986
+                                            monkey		0.536862
+                                           strange		0.536812
+                                              sexy		0.536485
+                                           grandma		0.536474
+                                            tomboy		0.536429
+                                          creature		0.535562
+                                             hairy		0.535353
+                                           happily		0.533338
+                                            creepy		0.533316
+                                             daddy		0.530024

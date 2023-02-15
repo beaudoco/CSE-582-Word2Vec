@@ -1,0 +1,46 @@
+Enter word or sentence (EXIT to break): she
+
+Word: she  Position in vocabulary: 66
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                               her		0.765679
+                                                he		0.747108
+                                           herself		0.715568
+                                              hers		0.677486
+                                            mother		0.655348
+                                             woman		0.638518
+                                           husband		0.629205
+                                          daughter		0.590409
+                                               mum		0.577908
+                                                me		0.575612
+                                              girl		0.575589
+                                           someone		0.563972
+                                               him		0.560248
+                                       grandmother		0.559338
+                                          teenager		0.540592
+                                         boyfriend		0.535911
+                                                ms		0.534683
+                                               mom		0.532800
+                                                 i		0.529170
+                                               dad		0.525482
+                                             never		0.521254
+                                            father		0.519116
+                                       hairdresser		0.509615
+                                               mrs		0.508868
+                                           fiancé		0.507667
+                                              aunt		0.507192
+                                             phair		0.506584
+                                                my		0.503852
+                                             nanny		0.500655
+                                          waitress		0.499605
+                                        barnfather		0.496063
+                                            friend		0.494483
+                                            khamal		0.492200
+                                           toddler		0.491599
+                                            doctor		0.490838
+                                           atryzek		0.487990
+                                         housewife		0.484686
+                                            nobody		0.481543
+                                               boy		0.481476
+                                          somebody		0.479947

@@ -1,0 +1,46 @@
+Enter word or sentence (EXIT to break): like
+
+Word: like  Position in vocabulary: 96
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                             weird		0.660311
+                                             crazy		0.606399
+                                             silly		0.590165
+                                             scary		0.580796
+                                               odd		0.580542
+                                           strange		0.579433
+                                        everywhere		0.568964
+                                             maybe		0.550317
+                                            really		0.546486
+                                              cute		0.541432
+                                             likes		0.540863
+                                            unlike		0.538816
+                                              nice		0.535306
+                                              akin		0.526894
+                                           besides		0.525965
+                                            boring		0.524833
+                                          nowadays		0.519196
+                                             funny		0.519194
+                                            always		0.517765
+                                             liked		0.517704
+                                            prefer		0.516480
+                                          resemble		0.515771
+                                          actually		0.515498
+                                          gimmicky		0.509476
+                                             fancy		0.509166
+                                             loves		0.507779
+                                          annoying		0.505237
+                                               fun		0.503535
+                                         basically		0.501164
+                                            pretty		0.500976
+                                              sort		0.500436
+                                         sometimes		0.499532
+                                             goofy		0.499245
+                                            creepy		0.497810
+                                              kind		0.495748
+                                        comforting		0.495195
+                                             wacky		0.494690
+                                              daft		0.494217
+                                           curious		0.493659
+                                             bunch		0.493282

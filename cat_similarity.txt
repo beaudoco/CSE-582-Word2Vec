@@ -1,0 +1,46 @@
+Enter word or sentence (EXIT to break): cat
+
+Word: cat  Position in vocabulary: 4488
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                               dog		0.777706
+                                              cats		0.764085
+                                            feline		0.759244
+                                           raccoon		0.707859
+                                             puppy		0.706247
+                                             tabby		0.674968
+                                            monkey		0.674108
+                                            rabbit		0.668461
+                                           kittens		0.662094
+                                               rat		0.656121
+                                             pooch		0.650570
+                                            kitten		0.647486
+                                           hamster		0.647011
+                                            rodent		0.644532
+                                             furry		0.640532
+                                               pug		0.638925
+                                        pomeranian		0.638003
+                                             snake		0.631520
+                                           rabbits		0.630675
+                                              dogs		0.629496
+                                            poodle		0.627664
+                                              paws		0.627086
+                                               pup		0.625571
+                                               pet		0.621589
+                                            parrot		0.620606
+                                         dachshund		0.619878
+                                           puppies		0.619229
+                                          doberman		0.605448
+                                          labrador		0.604005
+                                            piglet		0.603908
+                                               paw		0.595554
+                                             hippo		0.592999
+                                          hedgehog		0.590935
+                                              poop		0.587215
+                                               pig		0.586822
+                                           terrier		0.585906
+                                        rottweiler		0.585814
+                                             mouse		0.582472
+                                              goat		0.581863
+                                           felines		0.581791
